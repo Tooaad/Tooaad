@@ -6,6 +6,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
 
+
 <!--- CAMPO DE PROGRAMACION -->
 - ⛏🧱Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on The Official Minecraft Marketplace
 - 👨‍💻3rd Year of Computer Science Degree
@@ -13,6 +14,9 @@
 - 🎤Pop music lover
 - 🎮 If I ever make a video game, it would be Voxel Horror-themed.
 - 📧 Reach me out at [Email](mailto:gonzalopernas@diversegames.es) or Discord
+
+## Diverse
+
 
 ## Workflow tools
 <p align="center">
