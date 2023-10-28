@@ -6,7 +6,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
 
-- CAMPO DE PROGRAMACION
+<!--- CAMPO DE PROGRAMACION -->
 - ⛏🧱Freelancer at <a href="https://diversegames.es/">diverse</a>
 - 👨‍💻3rd Year of Computer Science Degree
 - 👨‍💻Currently working on Swingy
