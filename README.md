@@ -8,7 +8,7 @@
 
 
 <!--- CAMPO DE PROGRAMACION -->
-- ⛏🧱 Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on The Official Minecraft Marketplace.
+- 🧱⛏ Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on The Official Minecraft Marketplace.
 - 👨‍💻 3rd Year of Computer Science Degree.
 - 👨‍💻 In <a href="https://www.42madrid.com/">42Madrid - Fundación Telefónica</a> since 2019.
 - 🎤 Pop music lover.
