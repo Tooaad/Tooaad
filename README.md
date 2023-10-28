@@ -7,7 +7,7 @@
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
 
 <!--- CAMPO DE PROGRAMACION -->
-- ⛏🧱Freelancer at <a href="https://diversegames.es/">diverse</a>
+- ⛏🧱Freelancer at <a href="https://diversegames.es/">diverse</a> selling products on The Official Minecraft Marketplace
 - 👨‍💻3rd Year of Computer Science Degree
 - 👨‍💻Currently working on Swingy
 - 🎤Pop music lover
