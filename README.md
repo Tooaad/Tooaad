@@ -10,7 +10,7 @@
 <!--- CAMPO DE PROGRAMACION -->
 - ⛏🧱Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on The Official Minecraft Marketplace
 - 👨‍💻3rd Year of Computer Science Degree
-- 👨‍💻Currently working on Swingy
+- 👨‍💻In <a href="https://www.42madrid.com/">42Madrid</a> since 2019
 - 🎤Pop music lover
 - 🎮 If I ever make a video game, it would be Voxel Horror-themed.
 - 📧 Reach me out at [Email](mailto:gonzalopernas@diversegames.es) or Discord
