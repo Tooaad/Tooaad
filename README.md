@@ -4,14 +4,13 @@
 <em>Computer Science Engineering Student at UPM | Student at <a href="https://www.42madrid.com/">42Madrid</a></em>
 </p>
 
-<img align="right" src=https://i.gyazo.com/08fca81ad422d0b98dd04e5d79f0abc9.gif style="object-fit: cover; height: 210px; float: right">
+<img align="right" src=https://i.gyazo.com/08fca81ad422d0b98dd04e5d79f0abc9.gif style="object-fit: cover; height: 200px; float: right">
 
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
 
 
 <!--- CAMPO DE PROGRAMACION -->
-- 🧱⛏ Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on 
-      The Official Minecraft Marketplace.
+- 🧱⛏ Freelancer at <a href="https://diversegames.es/">diverse</a> creating content on The Official Minecraft Marketplace.
 - 👨‍💻 3rd Year of Computer Science Degree.
 - 👨‍💻 In <a href="https://www.42madrid.com/">42Madrid - Fundación Telefónica</a> since 2019.
 - 🎤 Pop music lover.
