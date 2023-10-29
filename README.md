@@ -4,7 +4,7 @@
 <em>Computer Science Engineering Student at UPM | Student at <a href="https://www.42madrid.com/">42Madrid</a></em>
 </p>
 
-<img align="right" src=https://imgur.com/ewLBHZF style="object-fit: cover; height: 210px; float: right">
+<img align="right" src=https://tenor.com/view/cat-gif-1743722975115382250 style="object-fit: cover; height: 210px; float: right">
 
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
 
