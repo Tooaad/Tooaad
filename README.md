@@ -3,7 +3,7 @@
 <p>
 <em>Computer Science Engineering Student at UPM | Student at <a href="https://www.42madrid.com/">42Madrid</a></em>
 </p>
-
+[![Image from Gyazo](https://i.gyazo.com/08fca81ad422d0b98dd04e5d79f0abc9.gif)](https://gyazo.com/08fca81ad422d0b98dd04e5d79f0abc9)
 <img align="right" src=https://tenor.com/view/cat-gif-1743722975115382250 style="object-fit: cover; height: 210px; float: right">
 
 ![Discord](https://img.shields.io/badge/Discord-tooaad-7289DA?style=flat&logo=discord&logoColor=white) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tooaad.Tooaad)
